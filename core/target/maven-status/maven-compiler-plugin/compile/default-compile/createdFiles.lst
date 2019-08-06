@@ -1,0 +1,9 @@
+com\did\core\listeners\SimpleResourceListener.class
+com\did\core\filters\LoggingFilter.class
+com\did\core\models\ReadmoreModel.class
+com\did\core\schedulers\SimpleScheduledTask$Config.class
+com\did\core\schedulers\SimpleScheduledTask.class
+com\did\core\servlets\SimpleServlet.class
+com\did\core\package-info.class
+com\did\core\models\WeatherModel.class
+com\did\core\models\HelloWorldModel.class
