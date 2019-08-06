@@ -1,0 +1,10 @@
+<div data-sly-test="${wcmmode.edit}" data-sly-use.weather="com.did.core.models.WeatherModel">
+    <h3>Read More Component </h3>
+    <div data-sly-resource="${'content' @ resourceType='wcm/foundation/components/parsys'}"></div>
+</div>
+
+
+<readmore-ng data-sly-test="${wcmmode.disabled}"
+            data-sly-use.weather="com.did.core.models.ReadmoreModel" >
+    <div data-sly-resource="${'content' @ resourceType='wcm/foundation/components/parsys'}"></div>
+</readmore-ng>
